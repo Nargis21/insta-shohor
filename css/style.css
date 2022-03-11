@@ -237,6 +237,9 @@ img {
   margin: 10px 0;
   color: gray;
 }
+.container{
+  padding: 20px;
+}
 
 #liked{
   display: none;
